@@ -1,4 +1,0 @@
-\xpg@aux {}{russian}
-\contentsline {section}{\numberline {1}Часть 1. Межвременная оптимизация потребительского выбора}{2}{section.1}%
-\contentsline {section}{\numberline {2}Часть 2. Рикардианская эквивалентность, концепции Эйбела и Кругмана}{10}{section.2}%
-\contentsline {section}{\numberline {3}Часть 3. Модель неоклассического экономического роста Рамсея}{20}{section.3}%
