@@ -1,0 +1,128 @@
+\xpg@aux {}{russian}
+\contentsline {section}{\numberline {1}Введение}{4}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Мотивация курса}{4}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Эмпирические факты: динамика ключевых переменных}{4}{subsection.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}Динамика потребления}{4}{subsubsection.1.2.1}%
+\contentsline {subsubsection}{\numberline {1.2.2}Потребительская уверенность}{4}{subsubsection.1.2.2}%
+\contentsline {subsubsection}{\numberline {1.2.3}Динамика инвестиций}{4}{subsubsection.1.2.3}%
+\contentsline {subsubsection}{\numberline {1.2.4}Фондовый рынок}{5}{subsubsection.1.2.4}%
+\contentsline {subsubsection}{\numberline {1.2.5}Цены на жильё}{5}{subsubsection.1.2.5}%
+\contentsline {subsection}{\numberline {1.3}Ключевые вопросы курса}{5}{subsection.1.3}%
+\contentsline {section}{\numberline {2}Лекции 1-2. Межвременной выбор}{7}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Мотивация}{7}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Суть современных теорий потребления}{7}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Пожизненная полезность}{7}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Динамическое (потоковое) бюджетное ограничение}{8}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Задача оптимизации: составление Лагранжиана}{8}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}Уравнение Эйлера (правило Рамсея--Кейнса)}{9}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}Эффект межвременного замещения}{9}{subsection.2.7}%
+\contentsline {subsection}{\numberline {2.8}Эффект дохода}{9}{subsection.2.8}%
+\contentsline {subsection}{\numberline {2.9}Свойства сбережений: эластичность межвременного замещения}{10}{subsection.2.9}%
+\contentsline {subsection}{\numberline {2.10}Динамика потребления во времени}{10}{subsection.2.10}%
+\contentsline {subsection}{\numberline {2.11}От динамического к межвременному бюджетному ограничению}{11}{subsection.2.11}%
+\contentsline {subsection}{\numberline {2.12}Условие отсутствия "схемы Понци" (No-Ponzi game / трансверсальность)}{11}{subsection.2.12}%
+\contentsline {subsection}{\numberline {2.13}Интерпретация межвременного бюджетного ограничения}{11}{subsection.2.13}%
+\contentsline {subsection}{\numberline {2.14}Межвременное бюджетное ограничение}{12}{subsection.2.14}%
+\contentsline {subsection}{\numberline {2.15}Условие NPG и бюджетное ограничение при бесконечном горизонте}{12}{subsection.2.15}%
+\contentsline {subsection}{\numberline {2.16}Кейс: падение потребительской уверенности в 2008 г.}{13}{subsection.2.16}%
+\contentsline {subsection}{\numberline {2.17}Динамическое бюджетное ограничение государства}{13}{subsection.2.17}%
+\contentsline {subsubsection}{\numberline {2.17.1}NPG-условие для государственного долга}{14}{subsubsection.2.17.1}%
+\contentsline {subsubsection}{\numberline {2.17.2}От динамического к межвременному бюджетному ограничению государства}{14}{subsubsection.2.17.2}%
+\contentsline {subsubsection}{\numberline {2.17.3}Долговая нагрузка: эмпирическая иллюстрация}{15}{subsubsection.2.17.3}%
+\contentsline {subsection}{\numberline {2.18}Объединение межвременных бюджетных ограничений: рикардианская эквивалентность}{15}{subsection.2.18}%
+\contentsline {subsubsection}{\numberline {2.18.1}Формулировка результата рикардианской эквивалентности}{15}{subsubsection.2.18.1}%
+\contentsline {subsubsection}{\numberline {2.18.2}Факторы, нарушающие рикардианскую эквивалентность}{16}{subsubsection.2.18.2}%
+\contentsline {subsection}{\numberline {2.19}Фискальные мультипликаторы}{16}{subsection.2.19}%
+\contentsline {subsubsection}{\numberline {2.19.1}Оценка Ромера и Бернстайна (2009)}{16}{subsubsection.2.19.1}%
+\contentsline {subsubsection}{\numberline {2.19.2}Эмпирические оценки мультипликатора государственных расходов}{17}{subsubsection.2.19.2}%
+\contentsline {subsubsection}{\numberline {2.19.3}Эмпирические оценки налогового мультипликатора}{17}{subsubsection.2.19.3}%
+\contentsline {subsection}{\numberline {2.20}Кривая Лаффера для налога на труд}{18}{subsection.2.20}%
+\contentsline {subsection}{\numberline {2.21}Краткое резюме ключевых результатов}{18}{subsection.2.21}%
+\contentsline {section}{\numberline {3}Лекция 3. Модель Рамсея}{20}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Мотивация}{20}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Производство и накопление капитала}{20}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Переход к подушевым переменным}{21}{subsubsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.3}Накопление капитала и цены факторов}{21}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Задача оптимизации}{21}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}Вывод условий первого порядка (Лагранжиан)}{21}{subsubsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.5}Уравнение Эйлера}{22}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}Динамическая система}{23}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}Стационарное состояние (steady state)}{23}{subsection.3.7}%
+\contentsline {subsection}{\numberline {3.8}Фазовая диаграмма}{23}{subsection.3.8}%
+\contentsline {subsection}{\numberline {3.9}Агрегированная норма сбережений в стационарном состоянии}{24}{subsection.3.9}%
+\contentsline {subsubsection}{\numberline {3.9.1}Свойства}{24}{subsubsection.3.9.1}%
+\contentsline {subsection}{\numberline {3.10}Модифицированное золотое правило}{24}{subsection.3.10}%
+\contentsline {subsection}{\numberline {3.11}Общественное благосостояние против децентрализованного равновесия}{25}{subsection.3.11}%
+\contentsline {subsubsection}{\numberline {3.11.1}Бюджетное ограничение домохозяйства}{25}{subsubsection.3.11.1}%
+\contentsline {subsection}{\numberline {3.12}Фискальная политика при сбалансированном бюджете: паушальный (lump-sum) налог}{26}{subsection.3.12}%
+\contentsline {subsection}{\numberline {3.13}Фискальная политика при сбалансированном бюджете: искажающий налог на доход от капитала}{26}{subsection.3.13}%
+\contentsline {section}{\numberline {4}Лекции 4--5. Модель перекрывающихся поколений (OLG)}{28}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Мотивация}{28}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Структура модели: перекрывающиеся поколения}{28}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Задача домохозяйства}{28}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Сбережения}{29}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Производство и цены факторов}{29}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}Накопление капитала}{30}{subsection.4.6}%
+\contentsline {subsection}{\numberline {4.7}Стационарное состояние}{30}{subsection.4.7}%
+\contentsline {subsubsection}{\numberline {4.7.1}Уравнение Эйлера в стационарном состоянии}{30}{subsubsection.4.7.1}%
+\contentsline {subsection}{\numberline {4.8}Парето-эффективность: Рамсей против OLG}{31}{subsection.4.8}%
+\contentsline {subsection}{\numberline {4.9}Общественное благосостояние}{31}{subsection.4.9}%
+\contentsline {subsection}{\numberline {4.10}Ресурсное ограничение}{31}{subsection.4.10}%
+\contentsline {subsection}{\numberline {4.11}Командный оптимум}{32}{subsection.4.11}%
+\contentsline {subsubsection}{\numberline {4.11.1}Почему выбор планировщика и домохозяйств различается}{33}{subsubsection.4.11.1}%
+\contentsline {subsection}{\numberline {4.12}Стационарное состояние командного оптимума}{33}{subsection.4.12}%
+\contentsline {subsection}{\numberline {4.13}Динамическая (не)эффективность}{34}{subsection.4.13}%
+\contentsline {subsection}{\numberline {4.14}Альтруистические межпоколенческие трансферты}{34}{subsection.4.14}%
+\contentsline {subsubsection}{\numberline {4.14.1}Бюджетные ограничения с трансфертами}{35}{subsubsection.4.14.1}%
+\contentsline {subsubsection}{\numberline {4.14.2}Стандартное уравнение Эйлера сохраняется}{35}{subsubsection.4.14.2}%
+\contentsline {subsubsection}{\numberline {4.14.3}Межпоколенческие условия}{35}{subsubsection.4.14.3}%
+\contentsline {subsubsection}{\numberline {4.14.4}Совпадение с командным оптимумом}{36}{subsubsection.4.14.4}%
+\contentsline {subsection}{\numberline {4.15}Эффективный мотив наследования (Barro, 1974)}{36}{subsection.4.15}%
+\contentsline {subsubsection}{\numberline {4.15.1}Угловое решение и динамическая неэффективность}{36}{subsubsection.4.15.1}%
+\contentsline {subsection}{\numberline {4.16}Системы социального обеспечения (пенсионные системы)}{37}{subsection.4.16}%
+\contentsline {subsubsection}{\numberline {4.16.1}Накопительная (Fully-Funded) пенсионная система}{37}{subsubsection.4.16.1}%
+\contentsline {subsubsection}{\numberline {4.16.2}Распределительная (PAYG) пенсионная система}{38}{subsubsection.4.16.2}%
+\contentsline {subsection}{\numberline {4.17}Пенсионные системы: дополнительные соображения}{39}{subsection.4.17}%
+\contentsline {subsubsection}{\numberline {4.17.1}Реформы, экспроприация или финансовые репрессии}{39}{subsubsection.4.17.1}%
+\contentsline {subsection}{\numberline {4.18}Иллюстративные данные: пенсионные фонды в мире (OECD, 2014)}{39}{subsection.4.18}%
+\contentsline {subsection}{\numberline {4.19}Краткое резюме ключевых результатов (Лекции 3--5)}{40}{subsection.4.19}%
+\contentsline {section}{\numberline {5}Лекция 6. Гипотеза жизненного цикла (Life-Cycle Hypothesis)}{41}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Мотивация}{41}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Структура модели жизненного цикла (LCH)}{41}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Задача домохозяйства}{41}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Индивидуальная предельная склонность к потреблению}{42}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}Сбережения на протяжении трудового периода}{42}{subsection.5.5}%
+\contentsline {subsection}{\numberline {5.6}Накопление и истощение активов}{42}{subsection.5.6}%
+\contentsline {subsection}{\numberline {5.7}Агрегирование: от индивидуального к макроуровню}{43}{subsection.5.7}%
+\contentsline {subsection}{\numberline {5.8}Агрегированное потребление}{43}{subsection.5.8}%
+\contentsline {subsection}{\numberline {5.9}Агрегированные сбережения}{44}{subsection.5.9}%
+\contentsline {subsection}{\numberline {5.10}Агрегированная средняя склонность к потреблению и сбережению}{44}{subsection.5.10}%
+\contentsline {subsubsection}{\numberline {5.10.1}Агрегированная норма сбережений как функция роста}{45}{subsubsection.5.10.1}%
+\contentsline {subsection}{\numberline {5.11}Эмпирические свидетельства}{45}{subsection.5.11}%
+\contentsline {subsubsection}{\numberline {5.11.1}Modigliani (1986, 1990)}{45}{subsubsection.5.11.1}%
+\contentsline {subsubsection}{\numberline {5.11.2}Paxson (1996)}{45}{subsubsection.5.11.2}%
+\contentsline {subsubsection}{\numberline {5.11.3}Экономический рост и сбережения: направление причинности}{46}{subsubsection.5.11.3}%
+\contentsline {subsection}{\numberline {5.12}Возвращение на индивидуальный уровень: критика упрощений}{46}{subsection.5.12}%
+\contentsline {subsection}{\numberline {5.13}Эмпирические профили жизненного цикла (Jappelli--Modigliani, 1998)}{46}{subsection.5.13}%
+\contentsline {subsection}{\numberline {5.14}Дополнительная литература}{47}{subsection.5.14}%
+\contentsline {section}{\numberline {6}Лекция 7. Гипотеза перманентного дохода и buffer-stock saving}{48}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Мотивация}{48}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Гипотеза перманентного дохода (PIH): детерминированный случай}{48}{subsection.6.2}%
+\contentsline {subsubsection}{\numberline {6.2.1}Напоминание: аннуитет}{49}{subsubsection.6.2.1}%
+\contentsline {subsubsection}{\numberline {6.2.2}Иллюстрация: конечный горизонт при $r=\rho =0$}{49}{subsubsection.6.2.2}%
+\contentsline {subsection}{\numberline {6.3}Транзиторный доход}{50}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}Проверьте себя: пример с выигрышем в лотерею}{50}{subsection.6.4}%
+\contentsline {subsection}{\numberline {6.5}Проверьте других: соответствуют ли "поведенческие паттерны" PIH?}{50}{subsection.6.5}%
+\contentsline {subsection}{\numberline {6.6}PIH и оценённая функция потребления}{50}{subsection.6.6}%
+\contentsline {subsubsection}{\numberline {6.6.1}Кейнсианский крест и панельные данные}{50}{subsubsection.6.6.1}%
+\contentsline {subsubsection}{\numberline {6.6.2}Загадка Кузнеца (Kuznets puzzle)}{51}{subsubsection.6.6.2}%
+\contentsline {subsubsection}{\numberline {6.6.3}Формальное объяснение через PIH}{51}{subsubsection.6.6.3}%
+\contentsline {subsection}{\numberline {6.7}PIH при неопределённости будущих доходов}{51}{subsection.6.7}%
+\contentsline {subsection}{\numberline {6.8}Гипотеза случайного блуждания (Random Walk Hypothesis)}{52}{subsection.6.8}%
+\contentsline {subsubsection}{\numberline {6.8.1}Определение перманентного дохода при неопределённости}{52}{subsubsection.6.8.1}%
+\contentsline {subsubsection}{\numberline {6.8.2}Вывод изменения потребления}{53}{subsubsection.6.8.2}%
+\contentsline {subsection}{\numberline {6.9}Предусмотрительный потребитель (Prudent Consumer)}{53}{subsection.6.9}%
+\contentsline {subsubsection}{\numberline {6.9.1}Моделирование мотива предусмотрительности}{54}{subsubsection.6.9.1}%
+\contentsline {subsection}{\numberline {6.10}Предосторожные сбережения (Precautionary Saving)}{54}{subsection.6.10}%
+\contentsline {subsection}{\numberline {6.11}Ограничения ликвидности}{54}{subsection.6.11}%
+\contentsline {subsection}{\numberline {6.12}Краткое резюме ключевых результатов (Лекции 6--7)}{55}{subsection.6.12}%
